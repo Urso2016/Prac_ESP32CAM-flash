@@ -27,3 +27,5 @@ Para observar el funcionamiento de este proyecto deberás realizar lo siguiente.
 Podrás observar cómo parpadeal el led flash del ESP32CAM.
 
 Por: [Hugo Vargas](https://github.com/hugoescalpelo)
+
+probado por maestro brindis.
